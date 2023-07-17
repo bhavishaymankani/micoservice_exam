@@ -15,7 +15,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Say hello Pritvi whats up"
+          name: "Say hello Pritvi whats up jai shree ram"
           command: "echo Hello, D.G. Ruparel!"
 
 # Orchestrate jobs using workflows
